@@ -1,0 +1,24 @@
+.borderButton {
+    border-radius: 12px;
+}
+.my-auto{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.size-fix{
+    width: 600;
+}
+.transition-Prop{
+    width: 500px;
+    /* height: 100px; */
+    /* background: red; */
+    transition: width 0.5s;
+    border-radius: 12px;
+}
+  
+.transition-Prop:hover {
+    width: 250px;
+}
+#btnRight {
+    float: right;
+}

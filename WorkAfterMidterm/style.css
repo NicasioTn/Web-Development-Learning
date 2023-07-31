@@ -1,0 +1,42 @@
+.backblue{
+    background-color: powderblue;
+}
+.setspac{
+    margin : auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    margin-top: 20px; 
+    text-align: center;
+    max-height: 700px;
+    max-width: 900px;   
+    width: 600px;
+    height: 700px;
+    
+  }
+label{
+    float: left;
+    margin-top: 10px;
+}
+.size{
+    width: 50px;
+    height: 50px;
+}
+th{
+    font-size: 14px;
+    font-family: 'Be Vietnam Pro', cursive;
+    text-align: center;
+    
+}
+.loginset{
+    float: right;
+    margin-top: 20px;
+    margin-right: 30px;
+}

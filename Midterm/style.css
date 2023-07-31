@@ -1,0 +1,62 @@
+.backImg{
+    background-image: url("Image/BackCinema.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+    scrollbar-width: none;
+    
+}
+.Loginbox{
+    width: 400px;
+    height: 550px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.inputbox {
+    width: 250px;
+    height: 40px;
+    border-radius: 15px;
+    
+}
+.setText{
+    text-align: center;
+    
+}
+.font{
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+.table{
+    border: 1px solid white;
+    color: white;
+}
+.layout{
+    margin: auto;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.notify{
+    color: red;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.back2{
+    background-image: url("Image/backG.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+    scrollbar-width: none;
+    
+}
