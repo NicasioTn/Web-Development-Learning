@@ -6,4 +6,3 @@
 </div>
 
 
-![image](https://github.com/NicasioTn/Web-Development/assets/55986701/c124f522-610f-454f-a8f1-4843cae860c0)
